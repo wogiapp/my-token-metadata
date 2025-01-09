@@ -2,9 +2,6 @@
   "name": "World „Gastronomy Network",
   "symbol": "WOGI",
   "description": "The official cryptocurrency of the World Gastronomy Network",
-  "image": "https://raw.githubusercontent.com/wogiapp/my-token-metadata/main/wogi_logo.png",
-  "attributes": [],
-  "properties": {
-    "category": "image"
+  "image": "https://raw.githubusercontent.com/wogiapp/my-token-metadata/main/wogi_logo.png"
   }
 }
